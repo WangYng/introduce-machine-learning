@@ -58,28 +58,29 @@ AI应用于环境监测、污染预测和生态保护等方面，帮助解决气
 作为机器学习的一个分支，深度学习主要通过构建多层非线性神经网络模型，在大量数据集上训练实现对复杂模式和特征的高效识别与提取。
  3. **自然语言处理（Natural Language Processing, NLP）：**
 该领域技术让计算机理解、解释、生成人类自然语言文本。它包括词法分析、句法分析、语义分析等多个层次的技术，使AI能够与人类进行更有效的沟通。随着硬件计算能力的提升和算法优化，这些底层技术将继续发展和完善，为更多前沿领域的AI应用创造可能性。
+ 
 
 ### python 文件介绍
  1. #### train_ann.py
-介绍 **神经网络** 的训练和使用，使用 **tensowflow** 框架演示
+介绍 **[神经网络](https://www.youtube.com/watch?v=NhvEGSuCLHA)** 的训练和使用，使用 **tensowflow** 框架演示。
 ``` python
 python3 train_ann.py
 ``` 
 
  2. #### train_cnn.py
-介绍 **卷积神经网络** 的训练和使用，使用 **tensowflow** 框架演示
+介绍 **[卷积神经网络](https://www.youtube.com/watch?v=vi9eNd9CPnk&t=48s)** 的训练和使用，使用 **tensowflow** 框架演示
 ``` python
 python3 train_cnn.py
 ``` 
 
  3. #### train_rnn.py
-介绍 **循环神经网络** 的训练和使用，使用 **tensowflow** 框架演示
+介绍 **[循环神经网络](https://www.youtube.com/watch?v=WoctfC00B-Y)** 的训练和使用，使用 **tensowflow** 框架演示
 ``` python
 python3 train_rnn.py
 ``` 
 
  4. #### train_dnn_transformer.py
-介绍 **Transform模型** 的使用，使用 **transformers** 框架演示
+介绍 **[Transform模型](https://www.youtube.com/watch?v=nIncwp0iAkw)** 的使用，使用 **transformers** 框架演示
  ``` python
 python3 train_dnn_transformer.py
 ``` 
