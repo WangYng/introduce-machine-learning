@@ -79,10 +79,16 @@ python3 train_cnn.py
 python3 train_rnn.py
 ``` 
 
- 4. #### train_dnn_transformer.py
+ 4. #### transformer_model.py
 介绍 **[Transform模型](https://www.youtube.com/watch?v=nIncwp0iAkw)** 的使用，使用 **transformers** 框架演示
  ``` python
-python3 train_dnn_transformer.py
+python3 transformer_model.py
+``` 
+
+ 5. #### large_language_model.py
+介绍 **[大语言模型](https://www.youtube.com/watch?v=nIncwp0iAkw)** 的使用，使用 **transformers** 框架演示
+ ``` python
+python3 large_language_model.py
 ``` 
 
 ### 必要的运行环境
