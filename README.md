@@ -97,7 +97,7 @@ python3 -m venv ./.venv
 # 激活并进入虚拟环境
 source ./.venv/bin/activate
 ```
- 3. #### 安装第三包
+ 3. #### 安装第三方包
 ``` python
 # 本机的python3版本是 3.8
 pip3 install -r requirements.txt
