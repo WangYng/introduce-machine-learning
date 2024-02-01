@@ -59,7 +59,6 @@ AI应用于环境监测、污染预测和生态保护等方面，帮助解决气
  3. **自然语言处理（Natural Language Processing, NLP）：**
 该领域技术让计算机理解、解释、生成人类自然语言文本。它包括词法分析、句法分析、语义分析等多个层次的技术，使AI能够与人类进行更有效的沟通。随着硬件计算能力的提升和算法优化，这些底层技术将继续发展和完善，为更多前沿领域的AI应用创造可能性。
  
-
 ### python 文件介绍
  1. #### train_ann.py
 介绍 **[神经网络](https://www.youtube.com/watch?v=NhvEGSuCLHA)** 的训练和使用，使用 **tensowflow** 框架演示。
@@ -109,4 +108,8 @@ source ./.venv/bin/activate
 # 本机的python3版本是 3.8
 pip3 install -r requirements.txt
 ```
+
+### LLM Operations
+ 1. **LangChain**
+是一个由大语言模型驱动的应用程序框架，它允许用户围绕大型语言模型快速构建应用程序和管道。 可以直接与 OpenAI 的 ChatGPT 模型以及 Hugging Face 集成。通过 langChain 可快速构建聊天机器人、生成式问答(GQA)、本文摘要等应用场景。
 
